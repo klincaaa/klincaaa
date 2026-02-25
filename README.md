@@ -1,20 +1,18 @@
 # Hi there 👋
 
-I'm [Your Name]
-
-## 🚀 About Me
-- 🌱 I’m currently learning ...
-- 💻 I like working with ...
-- 🎯 My goal is ...
+I'm Jovan Klincov
 
 ## 🛠 Skills
+- Next.js
+- React
+- MySQL
 - HTML
 - CSS
 - JavaScript
 
 ## 📫 How to reach me
-- Email: your@email.com
-- LinkedIn: ...
+- Email: klincov.jovan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jovan-klincov-98996522a/
 
 ## 🛠️ Tech Stack
 
