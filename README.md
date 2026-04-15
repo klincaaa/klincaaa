@@ -1,81 +1,71 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Jovan Klincov</h1>
+<h3 align="center">🚀 Full-Stack Developer | Next.js & React</h3>
 
-I'm **Jovan Klincov**
-
-🚀 Passionate frontend/backend developer focused on building modern web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+modern+web+apps;Always+learning+new+things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 💻 I work with modern web technologies like Next.js and React  
-- ⚡ I enjoy building full-stack applications  
-- 🧠 Always learning and improving my skills  
-- 🌍 Interested in scalable apps and clean architecture  
+- 💻 Building modern web apps with Next.js & React  
+- ⚡ Focused on full-stack development  
+- 🧠 Always improving & learning new technologies  
+- 🌍 Passion for clean code & scalable systems  
 
 ---
 
-## 🛠 Skills
-- Next.js  
-- React  
-- Node.js  
-- Express  
-- MySQL  
-- MongoDB  
-- HTML  
-- CSS  
-- JavaScript  
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠 Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
 
 ---
 
-## 📫 How to reach me
-- 📧 Email: klincov.jovan@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/jovan-klincov-98996522a/  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Projects
-*(Add your best projects here)*  
-- 🔹 Project Name – short description  
-- 🔹 Project Name – short description  
+<p align="center">
+✨ Coming soon... (add your best projects here) ✨
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-*(Optional – can add later)*  
-![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:klincov.jovan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jovan-klincov-98996522a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I like building things that actually work in real life 🚀
+🔥 I build things that actually work in real life
