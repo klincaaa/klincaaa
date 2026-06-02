@@ -34,7 +34,7 @@
 
 <h3>🗄️ Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,neo4j" />
+ <img src="https://skillicons.dev/icons?i=mongodb,mysql,neo4j" />
 </p>
 
 <h3>📱 Mobile Development</h3>
